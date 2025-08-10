@@ -20,7 +20,7 @@ const Index = () => {
     <main className="min-h-screen flex flex-col md:flex-row">
       {/* SEO: Title + meta description + canonical */}
       <Helmet>
-        <title>Frontend Developer Portfolio | Your Name</title>
+        <title>Frontend Developer Portfolio | Ritik Chauhan</title>
         <meta name="description" content="Frontend developer crafting interactive web experiences. Explore projects, services, and contact details." />
         <link rel="canonical" href={typeof window !== 'undefined' ? window.location.origin + '/' : '/'} />
       </Helmet>
@@ -40,7 +40,7 @@ const Index = () => {
           <span className="block text-3xl md:text-5xl font-arvo mt-2">Your Name</span>
         </h1>
         {/* Tagline placed separately for clarity */}
-        <p className="font-neuton text-gradient text-lg md:text-2xl mt-3">Crafting interactive web experiences</p>
+        <p className="font-neuton text-gradient text-lg md:text-2xl mt-3">I’m a passionate Frontend Developer who loves transforming ideas into interactive, user-friendly, and visually appealing web experiences. With a strong command of HTML, CSS, and JavaScript—alongside modern frameworks like React—I focus on creating responsive designs, smooth animations, and optimized performance. My goal is to blend creativity with functionality, ensuring every project delivers both style and substance.</p>
       </motion.section>
 
       {/* RIGHT COLUMN */}
