@@ -37,7 +37,7 @@ const Index = () => {
         {/* Single H1 for SEO with main keyword and name */}
         <h1 id="intro-heading" className="font-raleway text-gradient text-4xl md:text-6xl font-bold leading-tight">
           <span className="block">Frontend Developer</span>
-          <span className="block text-3xl md:text-5xl font-arvo mt-2">Your Name</span>
+          <span className="block text-3xl md:text-5xl font-arvo mt-2">Ritik Chauhan</span>
         </h1>
         {/* Tagline placed separately for clarity */}
         <p className="font-neuton text-gradient text-lg md:text-2xl mt-3">I’m a passionate Frontend Developer who loves transforming ideas into interactive, user-friendly, and visually appealing web experiences. With a strong command of HTML, CSS, and JavaScript—alongside modern frameworks like React—I focus on creating responsive designs, smooth animations, and optimized performance. My goal is to blend creativity with functionality, ensuring every project delivers both style and substance.</p>
