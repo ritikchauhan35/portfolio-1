@@ -28,11 +28,7 @@ const Projects: React.FC = () => {
       image: "/images/projects/Admybrand.png",
       url: "admy-brand-seven.vercel.app",
     },
-    {
-      name: "No Link Project Example",
-      image: "/images/projects/no-link.png",
-      url: "#", // No link → clicking should do nothing
-    },
+    
   ];
 
   // Track which project is being hovered for the preview panel (default to first)
